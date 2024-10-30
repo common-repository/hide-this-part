@@ -1,0 +1,10 @@
+.hide-this-part {
+	display:none;
+}
+
+.hide-this-part-more {
+	color:blue;
+	cursor:pointer;
+	margin-bottom:15px;
+	text-decoration:underline;
+}
